@@ -1,2 +1,2 @@
 # data_analysis_examples
-In this repository I'll save different examples and apps related to data analyss sphere.
+In this repository I'll save different examples related to data analysis sphere.
